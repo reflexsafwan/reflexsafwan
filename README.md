@@ -1,12 +1,11 @@
-## Hi there 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arapey&size=24&duration=4978&pause=1000&color=FCA311&vCenter=true&width=410&lines=Hi++I'm++Safwan.++Frontend+Developer" alt="Typing SVG" /></a>
+##<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arapey&size=24&duration=4978&pause=1000&color=FCA311&vCenter=true&width=410&lines=Hi++I'm++Safwan.+I'm+a++Frontend+Developer%F0%9F%98%8A" alt="Typing SVG" /></a> 👋
 
-<!--
-**reflexsafwan/reflexsafwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Reflex_safwan&reversal=true&animation=twinkling&fontAlignY=40&rotate=0&desc=Frontend%20developer%20%20|%20MERN%20Stack%20&textBg=false&descAlignY=63&descSize=24" />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
