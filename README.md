@@ -9,7 +9,7 @@
 
 ## 📦 Skills
 ---
-<img align='center' src="https://skillicons.dev/icons?i=git,github,,html,css,js,bash,nodejs,npm,express,nextjs,react,vite,mongo,tailwind,postman,vercel">
+<img align='center' src="https://skillicons.dev/icons?i=git,github,html,css,js,bash,nodejs,npm,express,nextjs,react,vite,mongo,tailwind,postman,vercel">
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
