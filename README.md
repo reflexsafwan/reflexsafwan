@@ -11,10 +11,12 @@
 ---
 <img align='center' src="https://skillicons.dev/icons?i=git,github,html,css,js,bash,nodejs,npm,express,nextjs,react,vite,mongo,tailwind,postman,vercel">
 
-- 🔭 I’m currently working on <img align='center' src="https://skillicons.dev/icons?i=react">,
-- 🌱 I’m currently learning <img align='center' src="https://skillicons.dev/icons?i=nextjs,ts>
+- 🔭 I’m currently working on ![Static Badge](https://img.shields.io/badge/React-badge?logo=react&label=React)
+>,
+- 🌱 I’m currently learning  ![Static Badge](https://img.shields.io/badge/NextJs-badge?style=for-the-badge&logo=nextdotjs&label=NextJs)
 
-- 🤔 I’m looking for help with chatgpt 
-- 💬 Ask me about <img align='center' src="https://skillicons.dev/icons?i=git,github,html,css,js,bash,nodejs,npm,express,nextjs,react,vite,mongo,tailwind,postman,vercel">
+- 🤔 I’m looking for help with ![Static Badge](https://img.shields.io/badge/stackoverflow-badge?logo=stackoverflow&label=Stackoverflow)
+
+<p align = "center">- 💬 Ask me about <img align='center' src="https://skillicons.dev/icons?i=git,github,html,css,express,nextjs,react,vite,mongo,tailwind,vercel"></p>
 - 📫 How to reach me: <img align='center' src="https://skillicons.dev/icons?i=gmail">
 
