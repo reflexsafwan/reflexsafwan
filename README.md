@@ -1,10 +1,11 @@
-##<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arapey&size=24&duration=4978&pause=1000&color=FCA311&vCenter=true&width=410&lines=Hi++I'm++Safwan.+I'm+a++Frontend+Developer%F0%9F%98%8A" alt="Typing SVG" /></a> 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Reflex_safwan&reversal=true&animation=twinkling&fontAlignY=40&rotate=0&desc=Frontend%20developer%20%20|%20MERN%20Stack%20&textBg=false&descAlignY=63&descSize=24" />
 </div>
 
-
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Borel&size=24&duration=4978&pause=1000&vCenter=true&width=410&lines=%F0%9F%92%BCOpen+for+Remote+Opportunities;%E2%9A%A1Building+responsive+%26+Scalable+Website" alt="Typing SVG" /></a>
+</div>
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
