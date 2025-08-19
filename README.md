@@ -1,4 +1,5 @@
 ## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arapey&size=24&duration=4978&pause=1000&color=FCA311&vCenter=true&width=410&lines=Hi++I'm++Safwan.++Frontend+Developer" alt="Typing SVG" /></a>
 
 <!--
 **reflexsafwan/reflexsafwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
